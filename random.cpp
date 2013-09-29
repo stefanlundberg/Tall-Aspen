@@ -1,3 +1,9 @@
+#include <stdio.h>
+
 /* This is a Test */
-x = 8;
+int main(int argc, const char * argv[]){
+
+int x = 8;
 printf("Hello M%d\n",x);
+
+}
