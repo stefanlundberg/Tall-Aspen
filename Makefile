@@ -3,4 +3,4 @@ all:
 	gcc	-o	random	random.cpp
 
 clean:
-	rm -f random
+	\rm -f random *~
